@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![github](/assets/github-header-image.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-so&show_icons=true&theme=radical)
 
-- I’m currently a student at [Turing College](www.turingcollege.com) 
+- 👩‍🎓 I’m currently a student at [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently working on Discord bot
 - 🌱 I’m currently learning REST APIs and Express.js
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
