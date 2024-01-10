@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I’m currently a student at [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently working on Discord bot
-- 🌱 I’m currently learning REST APIs and Express.js
+- 🌱 I’m currently learning REST APIs & Test Driven Development
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
