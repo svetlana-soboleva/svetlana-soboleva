@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
+# 📦 Toolbox 
+Frontend Development: ```Vue.js``` ```JavaScript``` ```TypeScript``` ```Tailwind``` ```HTML``` ```CSS``` ```Pinia``` ```Bootstrap```
+Backend Development: ```Node.js``` ```Express.js``` ```SQL``` ```tRPC``` ```REST APIs``` ```Kysely``` ```TDD``` ```TypeORM``` ```PostgreSQL``` ```Docker``` 
+Version Control: ```Git``` 
+Testing: ```Playwright``` ```Vitest``` ```Postman``` ```Insomnia```
