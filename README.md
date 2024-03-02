@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   
 # 📦 Toolbox 
 Frontend Development: ```Vue.js``` ```JavaScript``` ```TypeScript``` ```Tailwind``` ```HTML``` ```CSS``` ```Pinia``` ```Bootstrap```
+
 Backend Development: ```Node.js``` ```Express.js``` ```SQL``` ```tRPC``` ```REST APIs``` ```Kysely``` ```TDD``` ```TypeORM``` ```PostgreSQL``` ```Docker``` 
+
 Version Control: ```Git``` 
+
 Testing: ```Playwright``` ```Vitest``` ```Postman``` ```Insomnia```
