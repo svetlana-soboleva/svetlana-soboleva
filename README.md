@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I’m currently a student at [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently working on Fullstack Recipe App
-- 🌱 I’m currently learning PostgreSQL, tRPC and TypeORM
+- 🌱 I’m currently learning React
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
