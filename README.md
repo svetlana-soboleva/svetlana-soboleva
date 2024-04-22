@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-so&show_icons=true&theme=radical)
 
 - 👩‍🎓 I’m currently a student at [Turing College](www.turingcollege.com) 
-- 🔭 I’m currently working on Fullstack Recipe App
+- 🔭 I’m currently working on Collaborative Flowchart Tool
 - 🌱 I’m currently learning React
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
