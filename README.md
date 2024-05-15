@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
 # 📦 Toolbox 
-Frontend Development: ```React.js``` ```Vue.js``` ```JavaScript``` ```TypeScript``` ```Tailwind``` ```HTML``` ```CSS``` ```Pinia``` ```Bootstrap```
+Frontend Development: ```Zustand``` ```React.js``` ```Vue.js``` ```JavaScript``` ```TypeScript``` ```Tailwind``` ```HTML``` ```CSS``` ```Pinia``` ```Bootstrap``` ```Immer```
 
 Backend Development: ```Node.js``` ```Express.js``` ```SQL``` ```tRPC``` ```REST APIs``` ```Kysely``` ```TDD``` ```TypeORM``` ```PostgreSQL``` ```Docker``` 
 
