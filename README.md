@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-so&show_icons=true&theme=radical)
 
 - 👩‍🎓 I’m currently a student at [Turing College](www.turingcollege.com) 
-- 🔭 I’m currently working on Music Player
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Final Project
+- 🌱 I’m currently learning Next.js
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
