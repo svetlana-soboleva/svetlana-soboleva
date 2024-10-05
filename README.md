@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github](/assets/github-header-image.png)
+![github](/assets/github-header.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-soboleva&show_icons=true&theme=radical)
 
 - 👩‍🎓 I've recently graduated from [Turing College](www.turingcollege.com) 
