@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### **Frontend Development**  
 [![Zustand](https://img.shields.io/badge/-Zustand-181717?logo=zustand&style=for-the-badge)](https://github.com/pmndrs/zustand)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)](https://vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -41,6 +42,8 @@ Here are some ideas to get you started:
 ### **Backend Development**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 [![tRPC](https://img.shields.io/badge/-tRPC-2596be?logo=trpc&style=for-the-badge)](https://trpc.io/)
 [![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?logo=swagger&logoColor=white&style=for-the-badge)](https://restfulapi.net/)
