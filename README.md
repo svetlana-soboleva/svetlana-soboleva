@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github](/assets/github-header-image.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-so&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-soboleva&show_icons=true&theme=radical)
 
 - 👩‍🎓 I've recently graduated from [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently working on ...
