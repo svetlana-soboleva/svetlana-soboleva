@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I've recently graduated from [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently student at SALT Stockholm
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working in a team of 4 building a FullStack Application 😍
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
   
