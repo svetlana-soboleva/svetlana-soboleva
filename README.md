@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 My current projects:
   
   ## **Night Owl Reads** https://github.com/svetlana-soboleva/night_owl_reads
- <img src="/assets/night_owl_reads.jpg" alt="github" hight="50"/>
+ <img src="/assets/night_owl_reads.jpg" alt="github" width="150"/>
 
  ## **WanderWise**
   <img src="/assets/wanderWise.png" alt="github" width="300"/>
