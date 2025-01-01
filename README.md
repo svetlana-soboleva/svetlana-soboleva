@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlana-soboleva&show_icons=true&theme=radical)
 
 - 👩‍🎓 I've recently graduated from [Turing College](www.turingcollege.com) 
-- 🔭 I’m currently student at SALT Stockholm
-- 🌱 I’m currently working in a team of 4 building a FullStack Application 😍
+- 🔭 I’m currently working at SALT, Stockholm
 - 📚 Books, 🏞️ Hiking, 💪 Physical Training
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
+
+- 🌱 My current projects:
+  
   
 # 📦 Toolbox 
 
