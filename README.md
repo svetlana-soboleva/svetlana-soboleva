@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 - 🌱 My current projects:
   
-  Night Owl Reads https://github.com/svetlana-soboleva/night_owl_reads
- <img src="/assets/night_owl_reads.jpg" alt="github" width="300"/>
+  ## **Night Owl Reads** https://github.com/svetlana-soboleva/night_owl_reads
+ <img src="/assets/night_owl_reads.jpg" alt="github" hight="300"/>
 
- WanderWise
+ ## **WanderWise**
   <img src="/assets/wanderWise.png" alt="github" width="300"/>
   <img src="/assets/iPhone-14-Pro-393x852 4.png" alt="github" width="300"/>
   <img src="/assets/iPhone-14-Pro-393x852 5.png" alt="github" width="300"/>
