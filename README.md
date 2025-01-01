@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 My current projects:
   Night Owl Reads https://github.com/svetlana-soboleva/night_owl_reads
-  ![github](/assets/night_owl_reads.jpg)
+ <img src="/assets/night_owl_reads.jpg" alt="github" width="300"/>
   
   
 # 📦 Toolbox 
