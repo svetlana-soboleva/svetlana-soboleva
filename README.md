@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I've recently graduated from [Turing College](www.turingcollege.com) 
 - 🔭 I’m currently working at SALT, Stockholm
-- 📚 Books, 🏞️ Hiking, 💪 Physical Training
+- 🏃‍♀️Running, 🏞️ Hiking, 💪 Physical Training, 📚 Books
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
 
 - 🌱 My current projects:
