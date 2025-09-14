@@ -21,17 +21,6 @@ Here are some ideas to get you started:
 - 🏃‍♀️Running, 🏞️ Hiking, 💪 Physical Training, 📚 Books
 - 📫 How to reach me: sobolevasvetlanaalex@gmail.com
 
-- 🌱 My current projects:
-  
-  ### **Night Owl Reads** https://github.com/svetlana-soboleva/night_owl_reads
- <img src="/assets/night_owl_reads.jpg" alt="github" width="150"/>
-
- ### **WanderWise**
-  <img src="/assets/wanderWise.png" alt="github" width="150"/>
-  <img src="/assets/iPhone-14-Pro-393x852 4.png" alt="github" width="150"/>
-  <img src="/assets/iPhone-14-Pro-393x852 5.png" alt="github" width="150"/>
-  
-  
 # 📦 Toolbox 
 
 ### **Frontend Development**  
